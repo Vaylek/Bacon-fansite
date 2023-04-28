@@ -1,0 +1,77 @@
+hr{
+    border-style: none none dotted none;
+    border-width: 5px;
+    width: 5%;
+}
+
+img:hover{
+    
+    background-color:rgb(255, 0, 0);
+}
+
+p{
+    font-family: cursive;
+    text-align: center;
+}
+
+/****************Classes***********/
+
+.table2{
+
+    border: 3px solid;
+    border-color: black;
+    left: 50%;
+    margin-left: -100px;
+    margin-top: 20px;
+    position: relative;
+    width: 200px;
+
+}
+
+.tr, td{
+
+    border: 3px solid;
+    border-color: black;
+}
+
+.left{
+
+    background-color: white;
+}
+
+.tr2{
+
+    background-color: white;
+}
+
+.td2{
+
+    font-family: cursive;
+}
+
+.table{
+
+    border: 3px solid;
+    border-color: black;
+    left: 50%;
+    margin-left: -180px;
+    margin-top: 20px;
+    position: relative;
+    width: 200px;
+
+}
+
+.heading1{
+
+    font-size: 15px;
+}
+
+.head{
+    font-size: 100px;
+    text-align: center;
+}
+
+.rightbackground{
+
+    background-color: white;
+}
